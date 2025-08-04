@@ -1,4 +1,4 @@
-# LavyaMidha-PyramydAI
+# UtkarshGupta & LavyaMidha -PyramydAI
 
 ## Overview
 This project is designed to intelligently match clients with the most suitable software vendors based on a provided product category and desired capabilities. The system leverages both semantic similarity and keyword-level relevance to return highly ranked vendor recommendations via a FastAPI endpoint.
